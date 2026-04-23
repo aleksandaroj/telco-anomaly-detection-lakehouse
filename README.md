@@ -21,7 +21,7 @@ Raw JSON data is ingested from ADLS Gen2 using Auto Loader, processed into Delta
 
 ## Status
 - [x] Synthetic data generator
-- [ ] Autoloader ingestion
+- [x] Autoloader ingestion
 - [ ] Bronze layer
 - [ ] Silver transformations
 - [ ] Gold feature engineering
